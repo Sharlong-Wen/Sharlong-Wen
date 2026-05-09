@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sharlong-Wen
 
-<!--
-**Sharlong-Wen/Sharlong-Wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Visitors](https://komarev.com/ghpvc/?username=Sharlong-Wen&color=blue&style=flat-square)
 
-Here are some ideas to get you started:
+  ## Security Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Independent security researcher focused on AI framework and Java
+  ecosystem vulnerabilities.
+
+  ### CVE Credits
+
+  | CVE | Product | Severity | Credit | Advisory |
+  |-----|---------|----------|--------|----------|
+  | **CVE-2026-41705** | Spring AI | HIGH | Sole reporter |
+  [Advisory](https://spring.io/security/cve-2026-41705) |
+  | **CVE-2026-40978** | Spring AI | HIGH (CVSS 8.8) | Sole reporter |
+  [Advisory](https://spring.io/security/cve-2026-40978/) |
+  | **CVE-2026-40967** | Spring AI | HIGH (CVSS 8.6) | Co-reporter |
+  [Advisory](https://spring.io/security/cve-2026-40967/) |
+
+  ### Research Focus
+
+  - AI/LLM framework security
+  - Java ecosystem security auditing
+
+  ### Links
+
+  - [CVE Showcase](https://github.com/Sharlong-Wen/cve-showcase)
+
+  ---
